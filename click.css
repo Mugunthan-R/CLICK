@@ -1,0 +1,12 @@
+
+        body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 250px; 
+        }
+        button{
+            cursor: pointer;
+            background-color: rgb(197, 210, 9);
+            background-image: linear-gradient(rgb(214, 211, 11),rgb(26, 212, 16));
+        }
